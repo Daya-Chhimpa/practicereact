@@ -1,0 +1,21 @@
+.btn_pagi{
+    background-color:aquamarine ;
+    margin-left: 10px;
+    width: auto;
+    border-radius: 50px;
+    width: 20px;
+    cursor: pointer;
+}
+.active_btn{
+    background-color: brown;
+}
+.next_btn{
+    margin-left: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.back_btn{
+    margin-right: 10px;
+    font-size: 20px;
+cursor: pointer;
+}

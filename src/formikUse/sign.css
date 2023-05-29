@@ -1,0 +1,25 @@
+.signup-form {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  .form-field {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+  
+  .form-field label {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .form-field input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px
+  }  

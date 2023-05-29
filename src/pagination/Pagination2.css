@@ -1,0 +1,23 @@
+.page_btn{
+    background-color: aqua;
+margin-left: 10px;
+cursor: pointer;
+border-radius: 50%;
+}
+.active_btn{
+background-color: blue;
+margin-left: 10px;
+cursor: pointer;
+border-radius: 50%;
+}
+
+.back_btn{
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 50%;   
+}
+.next_btn{
+    margin-left: 10px;
+    cursor: pointer;
+ 
+}
